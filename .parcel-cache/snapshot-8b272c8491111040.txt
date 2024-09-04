@@ -1,4 +1,4 @@
-7151
+7153
 128C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\packager-svg\lib\SVGPackager.js133699303444867509 0
 136C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\d3-scale-chromatic\src\sequential-multi\OrRd.js133699311290097853 0
 127C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\type-fest\source\iterable-element.d.ts133699303387206884 0
@@ -8,7 +8,7 @@
 152C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\Lexer.js133699303495732023 0
 115C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\svgo\plugins\reusePaths.js133699304572810188 0
 119C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\postcss-value-parser\README.md133699303387020952 0
-98C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.5baa4167.js133699309672957918 0
+98C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.5baa4167.js133699318024815449 0
 106C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@msgpackr-extract133699311318093376 1
 102C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\css-tree\dist133699303421391859 1
 112C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\js-yaml\lib\type\str.js133699304572200982 0
@@ -34,7 +34,7 @@
 119C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\semver\internal\identifiers.js133699304571988751 0
 114C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\d3-hierarchy\src\index.js133699311292761381 0
 117C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\d3-time-format\src\locale.js133699311288159652 0
-80C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist133699309672985755 1
+80C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist133699318024846595 1
 97C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\svgo\bin133699304571727316 1
 112C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\mdn-data\css\types.json133699303393204176 0
 120C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\regions\AX.js133699303395931897 0
@@ -60,14 +60,14 @@
 119C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\lightningcss\node\targets.d.ts133699303447837705 0
 129C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133699304573291522 1
 102C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\lmdb\index.js133699304573081242 0
-82C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\app.js133699308917073063 0
+82C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\app.js133699318014177686 0
 125C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\features\webusb.js133699303402079674 0
 145C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js133699303386662955 0
 109C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\nullthrows\README.md133699303430375636 0
 106C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\source-map-js\lib133699303387086151 1
 97C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\boolbase133699303386693030 1
 107C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\d3-interpolate\src133699311292524956 1
-86C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\index.html133699308401482943 0
+86C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\index.html133699315660816935 0
 97C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\d3-shape133699311291701177 1
 156C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttrs.js133699304572390384 0
 114C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\semver\functions\valid.js133699304572308571 0
@@ -5027,7 +5027,7 @@
 166C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines133699303475565998 1
 130C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@swc\helpers\src\_array_without_holes.mjs133699303415325243 0
 126C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\features\details.js133699303397786333 0
-99C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.1303bb05.css133699309672818360 0
+99C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.1303bb05.css133699318024036374 0
 120C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\regions\MQ.js133699303400163191 0
 135C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@swc\helpers\_\_wrap_native_super\package.json133699303414169203 0
 120C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\regions\MR.js133699303400172471 0
@@ -5169,7 +5169,7 @@
 139C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\features\css-media-resolution.js133699303397148929 0
 129C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@swc\helpers\src\_async_to_generator.mjs133699303415325243 0
 135C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\features\css-mixblendmode.js133699303397179806 0
-91C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.html133699309672793310 0
+91C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.html133699318023844844 0
 130C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\features\css-nesting.js133699303397209793 0
 135C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\caniuse-lite\data\features\css-nth-child-of.js133699303397219806 0
 126C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\workers\test\cpuCount.test.js133699303428952114 0
@@ -6763,6 +6763,7 @@
 168C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\OffsetToLocation.js133699303505966411 0
 163C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\TokenStream.js133699303509757005 0
 157C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist\csstree.min.js133699303499614616 0
+85C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\plot.html133699317984903346 0
 153C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\patch.json133699303511525404 0
 159C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\attributes.d.ts133699303467687665 0
 163C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\attributes.d.ts.map133699303467561835 0
@@ -6909,7 +6910,7 @@
 114C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\core\src\requests133699303475402668 1
 119C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\core\src\serializer.js133699303470204700 0
 131C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\core\src\serializerCore.browser.js133699303470239763 0
-102C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.5baa4167.js.map133699309672957918 0
+102C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.5baa4167.js.map133699318024846595 0
 123C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\core\src\serializerCore.js133699303470239763 0
 132C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\core\src\TargetDescriptor.schema.js133699303472297122 0
 123C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\@parcel\core\src\Transformation.js133699303474609949 0
@@ -7148,5 +7149,6 @@
 105C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\.bin\tsv2csv.ps1133699311318058285 0
 102C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\.bin\tsv2json133699311318058285 0
 106C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\node_modules\.bin\tsv2json.ps1133699311318058285 0
-103C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.1303bb05.css.map133699309672861748 0
 135C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\r312-tp1-2-plot-par-parceljs-AngeloBosetti.3464ddca.js133699305096158686 0
+90C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\plot.html133699318023960500 0
+103C:\Users\Angelo\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AngeloBosetti\dist\index.1303bb05.css.map133699318024046442 0
